@@ -1,4 +1,4 @@
-### Challenge 3: Introduction to Custom Machine Learning
+## Challenge 3: Introduction to Custom Machine Learning
 
 #### Background
 
